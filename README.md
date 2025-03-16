@@ -34,8 +34,8 @@ full-stack-xray-classification/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/full-stack-xray-classification.git
-cd full-stack-xray-classification
+git clone https://github.com/sajadhadadi2000/Xray-Classification-full-stack.git
+cd Xray-Classification-full-stack
 ```
 
 2. Install dependencies:
